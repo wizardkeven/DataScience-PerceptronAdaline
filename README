@@ -1,0 +1,3 @@
+dataset contient tous les bases de données pré-traitées
+PARep.sh est un fichier de bash pour éxécuter les testes répétés.
+Pour refaire les étapes, il faut changer certaines répertoires dans les codes de R à la fois dans les codes de bash.

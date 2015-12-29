@@ -1,0 +1,681 @@
+==================Begin of breast========================================================================
+====================lambda:0.00001=============================================================
+====================perceptron: breast lambda:0.00001================================
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+====================================================
+
+=======================adaline: breast=============================
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+Precision:1.000000 Recall:0.963504 F1-measure:0.981413 Errorr=0.028571
+====================lambda:0.0001================================
+====================perceptron: breast lambda:0.00001================================
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+====================================================
+
+=======================adaline: breast=============================
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+====================lambda:0.001================================
+====================perceptron: breast lambda:0.00001================================
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+Precision:1.000000 Recall:0.970803 F1-measure:0.985185 Errorr=0.022857
+====================================================
+
+=======================adaline: breast=============================
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+====================lambda:0.01================================
+====================perceptron: breast lambda:0.00001================================
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+Precision:1.000000 Recall:0.978102 F1-measure:0.988930 Errorr=0.017143
+====================================================
+
+=======================adaline: breast=============================
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+Precision:1.000000 Recall:0.992701 F1-measure:0.996337 Errorr=0.005714
+====================lambda:0.1================================
+====================perceptron: breast lambda:0.00001================================
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+====================================================
+
+=======================adaline: breast=============================
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+Precision:1.000000 Recall:0.985401 F1-measure:0.992647 Errorr=0.011429
+==================End of breast==================================
+==================Begin of ionosphere========================================================================
+====================lambda:0.00001=============================================================
+====================perceptron: ionosphere lambda:0.00001================================
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+====================================================
+
+=======================adaline: ionosphere=============================
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+Precision:1.000000 Recall:1.000000 F1-measure:1.000000 Errorr=0.000000
+====================lambda:0.0001================================
+====================perceptron: ionosphere lambda:0.00001================================
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+====================================================
+
+=======================adaline: ionosphere=============================
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+Precision:1.000000 Recall:0.988636 F1-measure:0.994286 Errorr=0.011364
+====================lambda:0.001================================
+====================perceptron: ionosphere lambda:0.00001================================
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+Precision:1.000000 Recall:0.977273 F1-measure:0.988506 Errorr=0.022727
+====================================================
+
+=======================adaline: ionosphere=============================
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.943182 F1-measure:0.970760 Errorr=0.056818
+Precision:1.000000 Recall:0.965909 F1-measure:0.982659 Errorr=0.034091
+Precision:1.000000 Recall:0.965909 F1-measure:0.982659 Errorr=0.034091
+Precision:1.000000 Recall:0.965909 F1-measure:0.982659 Errorr=0.034091
+Precision:1.000000 Recall:0.965909 F1-measure:0.982659 Errorr=0.034091
+Precision:1.000000 Recall:0.965909 F1-measure:0.982659 Errorr=0.034091
+Precision:1.000000 Recall:0.965909 F1-measure:0.982659 Errorr=0.034091
+Precision:1.000000 Recall:0.965909 F1-measure:0.982659 Errorr=0.034091
+Precision:1.000000 Recall:0.965909 F1-measure:0.982659 Errorr=0.034091
+Precision:1.000000 Recall:0.965909 F1-measure:0.982659 Errorr=0.034091
+====================lambda:0.01================================
+====================perceptron: ionosphere lambda:0.00001================================
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+====================================================
+
+=======================adaline: ionosphere=============================
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+Precision:1.000000 Recall:0.909091 F1-measure:0.952381 Errorr=0.090909
+====================lambda:0.1================================
+====================perceptron: ionosphere lambda:0.00001================================
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+Precision:1.000000 Recall:0.420455 F1-measure:0.592000 Errorr=0.579545
+====================================================
+
+=======================adaline: ionosphere=============================
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+Precision:1.000000 Recall:0.477273 F1-measure:0.646154 Errorr=0.522727
+==================End of ionosphere==================================
+==================Begin of spambase========================================================================
+====================lambda:0.00001=============================================================
+====================perceptron: spambase lambda:0.00001================================
+Precision:0.468619 Recall:0.971800 F1-measure:0.632322 Errorr=0.453043
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.687500 Recall:0.286334 F1-measure:0.404288 Errorr=0.338261
+Precision:0.690751 Recall:0.518438 F1-measure:0.592317 Errorr=0.286087
+Precision:0.690751 Recall:0.518438 F1-measure:0.592317 Errorr=0.286087
+Precision:0.690751 Recall:0.518438 F1-measure:0.592317 Errorr=0.286087
+Precision:0.690751 Recall:0.518438 F1-measure:0.592317 Errorr=0.286087
+Precision:0.690751 Recall:0.518438 F1-measure:0.592317 Errorr=0.286087
+Precision:0.690751 Recall:0.518438 F1-measure:0.592317 Errorr=0.286087
+Precision:0.690751 Recall:0.518438 F1-measure:0.592317 Errorr=0.286087
+====================================================
+
+=======================adaline: spambase=============================
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+====================lambda:0.0001================================
+====================perceptron: spambase lambda:0.00001================================
+Precision:0.733668 Recall:0.316703 F1-measure:0.442424 Errorr=0.320000
+Precision:0.733668 Recall:0.316703 F1-measure:0.442424 Errorr=0.320000
+Precision:0.733668 Recall:0.316703 F1-measure:0.442424 Errorr=0.320000
+Precision:0.733668 Recall:0.316703 F1-measure:0.442424 Errorr=0.320000
+Precision:0.733668 Recall:0.316703 F1-measure:0.442424 Errorr=0.320000
+Precision:0.733668 Recall:0.316703 F1-measure:0.442424 Errorr=0.320000
+Precision:0.733668 Recall:0.316703 F1-measure:0.442424 Errorr=0.320000
+Precision:0.733668 Recall:0.316703 F1-measure:0.442424 Errorr=0.320000
+Precision:0.733668 Recall:0.316703 F1-measure:0.442424 Errorr=0.320000
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+Precision:0.457576 Recall:0.982646 F1-measure:0.624397 Errorr=0.473913
+====================================================
+
+=======================adaline: spambase=============================
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+====================lambda:0.001================================
+====================perceptron: spambase lambda:0.00001================================
+Precision:0.446078 Recall:0.986985 F1-measure:0.614450 Errorr=0.496522
+Precision:0.446078 Recall:0.986985 F1-measure:0.614450 Errorr=0.496522
+Precision:0.446078 Recall:0.986985 F1-measure:0.614450 Errorr=0.496522
+Precision:0.446078 Recall:0.986985 F1-measure:0.614450 Errorr=0.496522
+Precision:0.446078 Recall:0.986985 F1-measure:0.614450 Errorr=0.496522
+Precision:0.446078 Recall:0.986985 F1-measure:0.614450 Errorr=0.496522
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.546851 Recall:0.772234 F1-measure:0.640288 Errorr=0.347826
+Precision:0.580745 Recall:0.405640 F1-measure:0.477650 Errorr=0.355652
+Precision:0.580745 Recall:0.405640 F1-measure:0.477650 Errorr=0.355652
+====================================================
+
+=======================adaline: spambase=============================
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+====================lambda:0.01================================
+====================perceptron: spambase lambda:0.00001================================
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.400870
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.400870
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.461851 Recall:0.984816 F1-measure:0.628809 Errorr=0.466087
+Precision:0.661616 Recall:0.284165 F1-measure:0.397572 Errorr=0.345217
+Precision:0.661616 Recall:0.284165 F1-measure:0.397572 Errorr=0.345217
+Precision:0.661616 Recall:0.284165 F1-measure:0.397572 Errorr=0.345217
+Precision:0.661616 Recall:0.284165 F1-measure:0.397572 Errorr=0.345217
+Precision:0.661616 Recall:0.284165 F1-measure:0.397572 Errorr=0.345217
+====================================================
+
+=======================adaline: spambase=============================
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+====================lambda:0.1================================
+====================perceptron: spambase lambda:0.00001================================
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.406884 Recall:1.000000 F1-measure:0.578419 Errorr=0.584348
+Precision:0.730061 Recall:0.258134 F1-measure:0.381410 Errorr=0.335652
+Precision:0.730061 Recall:0.258134 F1-measure:0.381410 Errorr=0.335652
+Precision:0.730061 Recall:0.258134 F1-measure:0.381410 Errorr=0.335652
+Precision:0.730061 Recall:0.258134 F1-measure:0.381410 Errorr=0.335652
+Precision:0.730061 Recall:0.258134 F1-measure:0.381410 Errorr=0.335652
+Precision:0.730061 Recall:0.258134 F1-measure:0.381410 Errorr=0.335652
+Precision:0.730061 Recall:0.258134 F1-measure:0.381410 Errorr=0.335652
+Precision:0.730061 Recall:0.258134 F1-measure:0.381410 Errorr=0.335652
+Precision:0.730061 Recall:0.258134 F1-measure:0.381410 Errorr=0.335652
+====================================================
+
+=======================adaline: spambase=============================
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+Precision:-nan Recall:0.000000 F1-measure:-nan Errorr=0.000000
+==================End of spambase==================================
